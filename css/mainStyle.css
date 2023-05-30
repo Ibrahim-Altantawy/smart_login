@@ -1,0 +1,12 @@
+body{
+    background-color:#03303bf8 ;
+    font-family: "Titillium Web", sans-serif
+    ;
+}
+.innerDiv{
+    box-shadow: 5px -5px 50px 2px black ;
+}
+#LogoutBtn:hover{
+    background-color: rgb(78, 179, 212) !important;
+
+}
